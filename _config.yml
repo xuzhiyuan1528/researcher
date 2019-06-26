@@ -1,15 +1,17 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Zhiyuan Xu
+url: "https://xuzhiyuan1528.github.io/"
+# baseurl: "/about"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./ecs_logo.png"
+logo_url: "http://eng-cs.syr.edu/"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_main: "Copyright © 2019 Zhiyuan Xu. All Rights Reserved. Theme by "
+footer_text: "ankitsultana"
 
 sass:
     style: compressed
@@ -17,8 +19,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "index"
+ - name: "Publications"
+   link: "pub"
+ - name: "Research"
+   link: "res"
