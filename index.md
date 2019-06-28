@@ -12,11 +12,21 @@ I am currently pursuing the Ph.D. degree at the Department of Electrical Enginee
 >
 > [Google Scholar](https://scholar.google.com/citations?user=jKHMVnYAAAAJ&hl=en)
 >
-> [Linkedin](linkedin.com/in/zhiyuan-xu-19a66191)
+> [Linkedin](https://www.linkedin.com/in/zhiyuan-xu-19a66191)
 
 ## Research Interest
 
 Deep Learning, Deep Reinforcement Learning and Communication Networks.
+
+## Experience
+
+- Research Assistant, 
+  Syracuse University College of Engineering and Computer Science
+  Aug 2015 - Present, Syracuse, New York Area
+  
+- Research Intern, 
+  DiDi Ai Labs
+  Sep 2018 - Jun 2019, Beijing City, China
 
 ## Education
 

@@ -17,11 +17,10 @@ is_contact: true
 ### Review
 
 - IEEE Transactions on Wireless Communications
--  IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Vehicular Technology
 - IEEE Communications Letters
 - Journal of Parallel and Distributed Computing
 - Neurocomputing
-
 
 
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
