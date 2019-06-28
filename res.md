@@ -21,8 +21,5 @@ is_contact: true
 - IEEE Communications Letters
 - Journal of Parallel and Distributed Computing
 - Neurocomputing
-
-
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 - IEEE/ACM International Symposium on Quality of Service (IWQos)
-

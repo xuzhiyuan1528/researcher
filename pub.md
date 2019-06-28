@@ -12,9 +12,9 @@ is_contact: true
     
     
 2. **Z. Xu**, J. Tang, C. Yin, Y. Wang and G. Xue,  \\
-   Experience-driven congestion control: when multi-path TCP meets deep reinforcement learning \\
+   Experience-driven congestion control: when multi-path TCP meets deep reinforcement learning, \\
    **IEEE Journal on Selected Areas in Communications (JSAC)**, \\
-   Special Issue on AI and Machine Learning for Networking and Communications. \\
+   Special Issue on AI and Machine Learning for Networking and Communications, \\
    Vol. 37, No. 6, 2019, pp. 1325-1336.
 
    

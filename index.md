@@ -20,20 +20,20 @@ Deep Learning, Deep Reinforcement Learning and Communication Networks.
 
 ## Experience
 
-- Research Assistant, 
-  Syracuse University College of Engineering and Computer Science
-  Aug 2015 - Present, Syracuse, New York Area
-  
-- Research Intern, 
-  DiDi Ai Labs
+- **Research Intern**, \\
+  DiDi Ai Labs, \\
   Sep 2018 - Jun 2019, Beijing City, China
+
+- **Research Assistant**, \\
+  Syracuse University College of Engineering and Computer Science, \\
+  Aug 2015 - Present, Syracuse, New York Area
 
 ## Education
 
 Year | Degree | University
 :-----:|:--------:|:-----------
 2015 - Present | Ph.D. Candidate | Syracuse University
-2015 | Visiting | Dalhousie University
+2015 | Exchange | Dalhousie University
 2013 | Exchange | National Taiwan University of Science and Technology
 2011 - 2015 | B.S. | University of Electronic Science and Technology of China
 
