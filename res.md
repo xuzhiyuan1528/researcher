@@ -16,10 +16,12 @@ is_contact: true
 
 ### Review
 
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Communications Letters
+- IEEE Access
 - Journal of Parallel and Distributed Computing
 - Neurocomputing
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-- IEEE/ACM International Symposium on Quality of Service (IWQos)
+- IEEE/ACM International Symposium on Quality of Service (IWQoS)
