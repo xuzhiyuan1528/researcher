@@ -5,6 +5,10 @@ is_contact: true
 
 ## Publications
 
+1. N. Liu, X. Ma, **Z. Xu**, Y. Wang, J. Tang, and J. Ye, \\
+   AutoCompress: an automatic DNN structured pruning framework for ultra-high compression rates, \\
+   **AAAI'2020**, pp. 4876-4883. ([PDF](https://arxiv.org/pdf/1907.03141.pdf){:target="_blank"})
+
 1. C. Yin, J. Tang, **Z. Xu** and Y. Wang, \\
    Memory augmented deep recurrent neural network for video question answering, \\
    **IEEE transactions on neural networks and learning systems (TNNLS)**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8845771){:target="_blank"})
@@ -31,7 +35,7 @@ is_contact: true
 
 1. **Z. Xu**, J. Tang, J. Meng, W. Zhang, Y. Wang, C. Liu and D. Yang, \\
    Experience-driven networking: a deep reinforcement learning based approach, \\
-   **InfoCom'2018** (AR: 19.2%), pp. 1871-1879. ([PDF](https://ieeexplore.ieee.org/abstract/document/8485853){:target="_blank"})
+   **IEEE INFOCOM'2018** (AR: 19.2%), pp. 1871-1879. ([PDF](https://ieeexplore.ieee.org/abstract/document/8485853){:target="_blank"})
 
    
 
@@ -49,19 +53,19 @@ is_contact: true
 
 1. J. Wang , J. Tang, **Z. Xu**, Y. Wang, G. Xue, X. Zhang and D. Yang, \\
    Spatiotemportal modeling and prediction in cellular networks: a big data enabled deep learning approach, \\
-   **InfoCom'2017** (AR: 20.9%), pp. 1323-1331. Vol. 14, No. 4, 2018, pp. 1666-1676. ([PDF](https://ieeexplore.ieee.org/abstract/document/8057090){:target="_blank"})
+   **IEEE INFOCOM'2017** (AR: 20.9%), pp. 1323-1331. Vol. 14, No. 4, 2018, pp. 1666-1676. ([PDF](https://ieeexplore.ieee.org/abstract/document/8057090){:target="_blank"})
 
    
 
 1. N. Liu, Z. Li, J. Xu, **Z. Xu** , S. Lin, Q. Qiu, J. Tang and Y. Wang, \\
    A hierarchical framework of cloud resource allocation and power management using deep reinforcement learning, \\
-   **ICDCS'2017** (AR: 16.9%), pp. 372-382. ([PDF](https://ieeexplore.ieee.org/abstract/document/7979983){:target="_blank"})
+   **IEEE ICDCS'2017** (AR: 16.9%), pp. 372-382. ([PDF](https://ieeexplore.ieee.org/abstract/document/7979983){:target="_blank"})
 
    
 
 1. **Z. Xu**, Y. Wang and J. Tang, J. Wang and M. C. Gursoy, \\
    A deep reinforcement learning based framework for power-efficient resource allocation in cloud RANs, \\
-   **ICC'2017** (AR: 38.1%), pp. 1-6. ([PDF](https://ieeexplore.ieee.org/document/7997286){:target="_blank"})
+   **IEEE ICC'2017** (AR: 38.1%), pp. 1-6. ([PDF](https://ieeexplore.ieee.org/document/7997286){:target="_blank"})
    
    
    

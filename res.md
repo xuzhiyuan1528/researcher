@@ -16,12 +16,17 @@ is_contact: true
 
 ### Review
 
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Wireless Communications
-- IEEE Transactions on Vehicular Technology
-- IEEE Communications Letters
-- IEEE Access
-- Journal of Parallel and Distributed Computing
-- Neurocomputing
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-- IEEE/ACM International Symposium on Quality of Service (IWQoS)
+- ACM Computing Surveys (CSUR), 2020
+- IEEE/ACM Transactions on Networking (TON), 2020
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020
+- IEEE Transactions on Industrial Electronics (TIE), 2020
+- IEEE Journal on Selected Areas in Communications (JSAC), 2019, 2020
+- IEEE Transactions on Mobile Computing (TMC), 2019, 2020
+- IEEE Transactions on Wireless Communications (TWC), 2019, 2020
+- Neurocomputing, 2019, 2020
+- IEEE Access, 2019, 2020
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019
+- IEEE/ACM International Symposium on Quality of Service (IWQoS), 2019
+- IEEE Transactions on Vehicular Technology (TVT), 2019
+- Journal of Parallel and Distributed Computing (JPDC), 2019
+- IEEE Communications Letter, 2018
