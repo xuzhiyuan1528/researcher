@@ -12,7 +12,7 @@ I am currently majoring in **computer science** and pursuing the Ph.D. degree at
 >
 > [Google Scholar](https://scholar.google.com/citations?user=jKHMVnYAAAAJ&hl=en)
 >
-> [Linkedin](https://www.linkedin.com/in/zhiyuan-xu-19a66191)
+<!-- > [Linkedin](https://www.linkedin.com/in/zhiyuan-xu-19a66191) -->
 
 ## Research Interest
 
