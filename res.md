@@ -16,6 +16,7 @@ is_contact: true
 
 ### Review
 
+- AAAI Conference on Artificial Intelligence (AAAI), 2020
 - ACM Computing Surveys (CSUR), 2020
 - IEEE/ACM Transactions on Networking (TON), 2020
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020
@@ -25,8 +26,8 @@ is_contact: true
 - IEEE Transactions on Wireless Communications (TWC), 2019, 2020
 - Neurocomputing, 2019, 2020
 - IEEE Access, 2019, 2020
+- IEEE Communications Letter, 2018, 2020
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019
 - IEEE/ACM International Symposium on Quality of Service (IWQoS), 2019
 - IEEE Transactions on Vehicular Technology (TVT), 2019
 - Journal of Parallel and Distributed Computing (JPDC), 2019
-- IEEE Communications Letter, 2018

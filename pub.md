@@ -17,6 +17,12 @@ is_contact: true
 
 
 
+1. **Z. Xu**, J. Tang, C. Yin, Y. Wang, G. Xue, J. Wang, and M. C. Gursoy, \\
+   ReCARL: resource allocation in cloud RANs with deep reinforcement learning, \\
+   **IEEE Transactions on Mobile Computing (TMC)**, Accepted. 
+
+
+
 1. N. Liu, X. Ma, **Z. Xu**, Y. Wang, J. Tang, and J. Ye, \\
    AutoCompress: an automatic DNN structured pruning framework for ultra-high compression rates, \\
    **AAAI'2020** (AR: 20.6%), pp. 4876-4883. ([PDF](https://arxiv.org/pdf/1907.03141.pdf){:target="_blank"})
